@@ -1,3 +1,3 @@
 # BethesdaIT.com
-company website
-![]images/version2-img.PNG
+Company Website </br>
+![](images/version2-img.png)
