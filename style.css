@@ -141,7 +141,17 @@ footer {
   background-color: #fff;
   margin-top: -1px;
 }
-h2:hover {
+
+#website:hover {
+  font-size: 17px;
+}
+#computers:hover {
+  font-size: 17px;
+}
+#router:hover {
+  font-size: 17px;
+}
+#iot:hover {
   font-size: 17px;
 }
 #tm:checked ~ .hiddentext {
